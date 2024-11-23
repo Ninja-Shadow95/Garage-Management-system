@@ -7,5 +7,5 @@ This repository contains the output screenshots, Code files, Project documentati
 - Final_output.png is the final output of the project which confirms the project completion status.
 
 - Documentation.pdf is documentation of the project which instructs the steps followed while doing the project.
-- 
-- Project demonstration video link is given in the Project Video link folder.
+
+- Project demonstration video link is given in the ProjectVideolink folder.
