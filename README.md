@@ -1,6 +1,6 @@
 # Garage-Management-system
 Hello there! 
-This repository contains the output screenshots, Code files, Project documentation, Project demonstration video link.
+This repository contains the output screenshots, Code files, Project documentation, Project demonstration video link of Garage Management System project.
 
 - AmountDistribution.apxc, AmountDistributionHandler.apxc are the necessary code files required in this project which handle the apex triggers in the garage management system project.
 
